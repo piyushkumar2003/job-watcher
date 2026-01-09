@@ -4,6 +4,15 @@
       "company": "google",
       "url": "https://www.google.com/about/careers/applications/jobs/results?q=%22software%20engineer%22&employment_type=FULL_TIME&company=Google&location=India&target_level=EARLY",
       "keywords": ["software engineer"]
+    },
+    {
+      "company": "MS",
+      "url": "https://apply.careers.microsoft.com/careers?query=software+engineer&start=0&location=india&pid=1970393556640393&sort_by=relevance&filter_include_remote=1&filter_seniority=Entry",
+      "keywords": ["software engineer"]
+    },{
+      "company": "PayU",
+      "url": "https://careers.payu.in/PayU/go/_/514880/",
+      "keywords": ["software engineer"]
     }
   ]
 }
