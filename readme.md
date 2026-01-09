@@ -217,12 +217,6 @@ Link: https://careers.google.com/jobs/results/123456
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Author
 
 Built by **Piyush Kumar**
